@@ -1,0 +1,27 @@
+{
+	"background_color": "#ffffff",
+	"display": "standalone",
+	"icons": [
+		{
+			"sizes": "192x192",
+			"src": "/icon-192x192.png",
+			"type": "image/png"
+		},
+		{
+			"sizes": "512x512",
+			"src": "/icon-512x512.png",
+			"type": "image/png"
+		},
+		{
+			"purpose": "any maskable",
+			"sizes": "512x512",
+			"src": "/icon-512x512-opaque.png",
+			"type": "image/png"
+		}
+	],
+	"name": "Sveltekit Prototype",
+	"scope": "/",
+	"short_name": "Sveltekit Prototype",
+	"start_url": "/",
+	"theme_color": "#ffffff"
+}

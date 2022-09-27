@@ -1,0 +1,10 @@
+body {
+	display: flex;
+	flex-direction: column;
+	place-content: center;
+}
+body > div > h1,
+body > div > p {
+	text-align: center;
+	max-width: 100%;
+}
